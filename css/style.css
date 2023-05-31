@@ -1,0 +1,13 @@
+.box{
+	height: 100px; 
+	background-color: red;
+}
+.box1{
+	height: 100px ;
+	background-color: yellow;
+}
+.box3{
+	height: 100px;
+	background-color: grey;
+	margin-bottom: 10px;
+}
